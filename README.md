@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👨‍💻:About Me:
+### 👨‍💻About Me:
 I am a Computer Science Undergraduate who is deciding his future path
 
 - 🔭 I’m currently working on Machine Learning
